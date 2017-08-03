@@ -1,58 +1,43 @@
-.grid-container{
-    width: 100%; 
-    max-width: 1200px;
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
 
-/*-- our clearfix hack -- */ 
-.row:before, 
-.row:after {
-    content:"";
-    display: table;
-    clear:both;
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
 }
 
-[class*='col-'] {
-    float: left; 
-    min-height: 1px; 
-    width: 16.66%; 
-    /*-- our gutter -- */
-    padding: 12px; 
-    background-color: #FFDCDC;
-}
-
-.col-1{ width: 16.66%; }
-.col-2{ width: 33.33%; }
-.col-3{ width: 50%;    }
-.col-4{ width: 66.66%; }
-.col-5{ width: 83.33%; }
-.col-6{ width: 100%;   }
-
-.outline, .outline *{
-    outline: 1px solid #F6A1A1; 
-}
-
-/*-- some extra column content styling --*/
-[class*='col-'] > p {
-    background-color: #FFC2C2; 
-    padding: 0;
-    margin: 0;
-    text-align: center; 
-    color: white; 
-}
-
-@media all and (max-width:800px){
-    .col-1{ width: 33.33%;    }
-    .col-2{ width: 50%;        }
-    .col-3{ width: 83.33%;    }
-    .col-4{ width: 100%;    }
-    .col-5{ width: 100%;    }
-    .col-6{ width: 100%;      }
-
-    .row .col-2:last-of-type{
-        width: 100%; 
-    }
-    
-    .row .col-5 ~ .col-1{
-        width: 100%; 
-    }
+ul.posts li {
+    list-style: none;
 }
