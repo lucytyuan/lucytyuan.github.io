@@ -20,8 +20,8 @@ The areas I hope to improve are as follows:
   * Is your stance INTERESTING—that is, does it go beyond the mundane and obvious?
   * Does the voice sound like you??
 
-My last “goal,” not entirely related to the piece itself, involves time--would I be able to reduce the time it takes for me to produce an effectively communicated piece?
+My last goal, not entirely related to the writing itself, involves time--would I be able to reduce the time it takes for me to produce an effectively communicated piece?
 
-I understand that these categories are rather vague and not fully comprehensive in defining effective writing, but for now I believe it provides an adequate framework for these next three weeks’ experience. Of course, I shall continue to hone my criteria once I have a better understanding of what I am dealing with. 
+I understand that these categories are rather vague and not fully comprehensive in defining a "compelling argument", but for now I believe it provides an adequate framework for these next three weeks’ experiment. Of course, I shall continue to hone my criteria once I have a better understanding of what I am dealing with. 
 
 And so the journey begins! 
