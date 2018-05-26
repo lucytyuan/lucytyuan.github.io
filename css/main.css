@@ -45,7 +45,8 @@ footer {
     left: 20;
     bottom: 0;
     height: 100px;
-    width: 75%;
+    width: 80%;
+    background-color: white;
 }
 
 ul.posts { 
