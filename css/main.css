@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family:'Karla', 'Arial', 'Sans-Serif';
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 nav ul, footer ul {
     font-family:'Karla', 'Arial', 'Sans-Serif';
@@ -29,6 +32,7 @@ p {
     font-size: 11.5pt;
     line-height: 1em;
     color: #333;
+    flex: 1;
 }
 footer {
     border-top: 1px solid #d5d5d5;
