@@ -25,6 +25,7 @@ h1 {
     font-family:'Karla', 'Arial', 'Sans-Serif';
 }
 p {
+    margin: 20px auto 40px; 
     font-size: 11.5pt;
     line-height: 1em;
     color: #333;
