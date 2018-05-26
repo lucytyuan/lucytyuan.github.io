@@ -13,11 +13,12 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 35px;
 }
 
 nav {
     border-bottom: 1px solid #d5d5d5;
+    flex: 0 0 auto;
 }
 
 a {
@@ -48,7 +49,7 @@ footer {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
+    margin: 20px 0px 40px; 
     font-size: 11.5pt;
 }
 
