@@ -13,5 +13,4 @@ title: "Reading"
 #### Reading List
 | Title/Author        | Description          | Rating |
 | ------------------- |----------------------| :-----:|
-| _Tribe of Mentors_ 
-> by Timothy Ferriss | Pretty good book | :star::star::star: |
+| _Tribe of Mentors_ <br/> by Timothy Ferriss | Pretty good book | :star::star::star: |
