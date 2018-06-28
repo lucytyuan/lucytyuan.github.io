@@ -6,13 +6,7 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/reading">Reading</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
+			{% include footer.html %}
 			<div class="container">
 			
 			{{ content }}
@@ -22,7 +16,7 @@
 	    		<ul>
 	        		<li><a href="mailto:tyuan20@amherst.edu">Email</a></li>
 	        		<li><a href="https://github.com/lucytyuan">Github</a></li>
-				</ul>
+			</ul>
 			</footer>
 		</body>
 	</html>
