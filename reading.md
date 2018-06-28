@@ -11,6 +11,6 @@ title: "Reading"
 
 
 #### Reading List
-| Title     | Author | Description          |:star:s|
+| Title     | Author | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|:star:s|
 | --------- |--------|----------------------|:-----:|
-| _Tribe of Mentors_ | Tim Ferriss | alsdfjl;skdjflskdjfl;aksdjfl;kasdjfl;kdsjf;lskdjfls;dk Pretty good book | :star::star::star: |
+| _Tribe of Mentors_ | Tim Ferriss | Pretty good book | :star::star::star: |
