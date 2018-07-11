@@ -14,11 +14,9 @@ title: "Reading"
 
 <div class="datatable-begin"></div>
 
-Food    | Description                           | Category | Sample type
+Author  | Title                                 | Genre    | Rating
 ------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Apples  | A small, somewhat round ...           | Fruit    | :star::star::star:
 Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 <div class="datatable-end"></div>
