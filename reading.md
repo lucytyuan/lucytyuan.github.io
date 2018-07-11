@@ -14,9 +14,9 @@ title: "Reading"
 
 <div class="datatable-begin"></div>
 
-Author  | Title                                 | Genre    | Rating
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | ⭐️⭐️⭐️
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Author  | Title                                  | Genre    | Rating
+------- | -------------------------------------- | -------- | -----------
+Apples  | apple                                  | Fruit    | ⭐️⭐️
+Bananas | banana                                 | Fruit    | ⭐️⭐️⭐️
 
 <div class="datatable-end"></div>
