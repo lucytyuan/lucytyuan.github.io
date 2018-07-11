@@ -16,7 +16,7 @@ title: "Reading"
 
 Author  | Title                                 | Genre    | Rating
 ------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | :star::star::star:
+Apples  | A small, somewhat round ...           | Fruit    | ⭐️⭐️⭐️
 Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
 
 <div class="datatable-end"></div>
